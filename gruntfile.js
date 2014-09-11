@@ -27,4 +27,6 @@ module.exports = function(grunt) {
     });
 
     grunt.loadNpmTasks('grunt-http-server');
+
+    grunt.registerTask('default', 'Run server', ['http-server:dev']);
 }
