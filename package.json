@@ -1,0 +1,30 @@
+{
+  "name": "accessimple",
+  "version": "0.0.0",
+  "description": "Examples of good and bad examples of accessible website design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cliffburger/accessimple.git"
+  },
+  "keywords": [
+    "accessibility",
+    "html",
+    "do-good",
+    "hubris"
+  ],
+  "author": "Cliff Burger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliffburger/accessimple/issues"
+  },
+  "homepage": "https://github.com/cliffburger/accessimple",
+  "devDependencies": {
+    "http-server": "^0.7.0",
+    "grunt": "^0.4.5",
+    "grunt-http-server": "^1.0.0"
+  }
+}
